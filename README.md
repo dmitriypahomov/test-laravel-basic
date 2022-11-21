@@ -10,6 +10,7 @@
 - set your DB credentials and mail data in `.env`
 - `php artisan key:generate`
 - `php artisan migrate --seed`
+- `php artisan storage:link`
 
 ## Run on local
 `npm run dev`
